@@ -1,4 +1,4 @@
-## These functions are developed to solce Coursera R Programming course second programming assignment
+## These functions are developed to solve Coursera R Programming course second programming assignment
 ## They calculate the inverse of a square matrix, and return the result from the cache if it has already been calculated
 
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
